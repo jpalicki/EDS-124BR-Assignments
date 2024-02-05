@@ -7,3 +7,5 @@ My Quest - Kangaroo, Grasshopper, and Bee: [Animal Parade](https://youtu.be/DVia
 Nested Repeats: [Make a Mouse Draw an Octagon](https://youtu.be/iZnCJCVDnmE)
 
 Events: [Monkey Catching Banana Game](https://www.youtube.com/watch?v=Sak-6w9_xVE)
+
+Variables Show What You Know: [Drawing Three Shapes: Variables Explained](https://www.youtube.com/watch?v=GhDH0wbNRnI)
