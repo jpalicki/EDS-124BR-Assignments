@@ -14,3 +14,5 @@ Conditional Loops Show What You Know: [Catch the Soccer Ball Game](https://www.y
 If Else Statements Show What You Know: [Click the Blue Ball Game](https://www.youtube.com/watch?v=P1EoBNyFzDA)
 
 Nested If Else Statements Show What You Know: [Can the Penguin Swim?](https://www.youtube.com/watch?v=uVXB3BRiha4)
+
+Compound Conditionals Show What You Know: [Buried Treasure Game](https://youtu.be/Rp14c3B1PpU)
