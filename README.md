@@ -16,3 +16,5 @@ If Else Statements Show What You Know: [Click the Blue Ball Game](https://www.yo
 Nested If Else Statements Show What You Know: [Can the Penguin Swim?](https://www.youtube.com/watch?v=uVXB3BRiha4)
 
 Compound Conditionals Show What You Know: [Buried Treasure Game](https://youtu.be/Rp14c3B1PpU)
+
+Custom Blocks Show What You Know: [Paint a Picture](https://youtu.be/APDfhnQUm7A)
