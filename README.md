@@ -17,4 +17,4 @@ Nested If Else Statements Show What You Know: [Can the Penguin Swim?](https://ww
 
 Compound Conditionals Show What You Know: [Buried Treasure Game](https://youtu.be/Rp14c3B1PpU)
 
-Custom Blocks Show What You Know: [Paint a Picture](https://youtu.be/APDfhnQUm7A)
+Abstraction: Custom Blocks Show What You Know: [Paint a Picture](https://youtu.be/APDfhnQUm7A)
