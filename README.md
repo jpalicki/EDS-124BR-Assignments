@@ -19,4 +19,4 @@ Compound Conditionals Show What You Know: [Buried Treasure Game](https://youtu.b
 
 Abstraction: Custom Blocks Show What You Know: [Paint a Picture](https://youtu.be/APDfhnQUm7A)
 
-Lists Show What You Know: [All that Countries in the World that Start With...](https://youtu.be/cqJrJqeAREU)
+Lists Show What You Know: [All the Countries in the World that Start With...](https://youtu.be/cqJrJqeAREU)
